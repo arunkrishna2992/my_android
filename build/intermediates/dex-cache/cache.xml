@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_870d2cef03cdccfc363f9211f347f71b98ee3757.jar" />
+    </item>
+    <item
+        jar="/home/arun/Softwares/adt-bundle-linux-x86_64-20140702 /sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_143b3b7b296802821460f4c08529141154d9af00.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_b2c5f7d52d138f7d4c4b954f4640f3835540064d.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d6e471a74b5c4872a2bcd8850b48cdd20a19d1b">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_44d85cad35944b8fc7a0973d090343b0f1ae3785.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_f9d85951ba03545ffe7020a3301fdc0b4c848261.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cf18449c637eeea5340ce5d030c8aa929e0ea7ac">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/instant-run_8a2d7b3a808295fc82e4e4a6d3aa0c4024ad7560.jar" />
+    </item>
+
+</items>
